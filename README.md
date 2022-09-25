@@ -1,4 +1,3 @@
-An application for searching images by keyword.
 <h1 align="center">Hi there, I'm Hanna
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I develop apps in React and also create websites.</h3>
