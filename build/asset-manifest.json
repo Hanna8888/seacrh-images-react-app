@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-images-react-app/static/css/main.2950c95b.css",
+    "main.js": "/search-images-react-app/static/js/main.61ad19b0.js",
+    "index.html": "/search-images-react-app/index.html",
+    "main.2950c95b.css.map": "/search-images-react-app/static/css/main.2950c95b.css.map",
+    "main.61ad19b0.js.map": "/search-images-react-app/static/js/main.61ad19b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2950c95b.css",
+    "static/js/main.61ad19b0.js"
+  ]
+}
