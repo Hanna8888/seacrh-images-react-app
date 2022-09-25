@@ -3,7 +3,7 @@
 <h3 align="center">I develop apps in React and also create websites.</h3>
 <p><b>seacrh-images-react-app</b>
 
-- React App to search images by keyword [see for yourself](https://hanna8888.github.io/search-images-react-app
+- React App to search images by keyword [see for yourself] (https://hanna8888.github.io/search-images-react-app
 /)
 - It was built with React Bootstrap 
 - The code is well structured and easy to modify
